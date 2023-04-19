@@ -1,1 +1,1 @@
-Django web application practice
+Django web application sample
